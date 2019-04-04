@@ -1,3 +1,9 @@
+# Name: Arti Jain         
+# Course: CPE 202
+# Instructor: Hatalsky 
+# Assignment: Lab 0 Tests
+# Term: Spring 2019
+
 import unittest
 import io, sys
 from planets import *
